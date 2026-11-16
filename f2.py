@@ -1,3 +1,3 @@
-a = 20
-b = 10
-print("Subtraction:", a - b)
+a = 100
+b = 50
+print("Updated Subtraction:", a - b)
